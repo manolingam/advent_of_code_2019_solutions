@@ -33,3 +33,5 @@ for(let i = 307237; i <= 769058; i++) {
 }
 
 console.log(count)
+
+//Day 4 - Part 2
